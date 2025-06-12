@@ -11,5 +11,5 @@ Clone the repo or click the button below to automatically open it in Bruno!
 git clone https://github.com/bruno-collections/github-rest-api-collection.git
 
 # open the folder in bruno
-# enjoy !!
+# enjoy !!!
 ```
